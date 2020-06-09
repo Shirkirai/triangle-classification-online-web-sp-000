@@ -8,9 +8,12 @@ class Triangle
   end
 
   def kind
-    if Triangle.new
-      return :equilateral
+    if a <= 0 || b <= 0 || c <= 0 ||
+      raise TriangleError
+    elsif 
+
     end
+
 
   end
 
