@@ -18,6 +18,7 @@ class Triangle
       return :obtuse
 
     end
+  end
 
 
   end
