@@ -3,8 +3,9 @@ class Triangle
 
   def initialize(1, 2, 3)
     if 1 == 2 && 1 == 3 && 2 == 3
-
+      equilateral
+    end
   end
 
-  
+
 end
