@@ -1,7 +1,7 @@
 class Triangle
   attr_accessor :equilateral, :isosceles, :scalene
 
-  def initialize(length1, length2, length3)
-    
+  def initialize(1, 2, 3)
+    if
   end
 end
