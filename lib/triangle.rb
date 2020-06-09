@@ -12,7 +12,7 @@ class Triangle
       raise TriangleError
     elsif a = b = c
       return :equilateral
-    elsif
+    elsif a != b && b != c && c != a
       return :scalene
     elsif
       return :isosceles
