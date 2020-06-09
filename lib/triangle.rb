@@ -9,6 +9,7 @@ class Triangle
   def kind
     if Triangle.new()
       return :equilateral
+    end
 
   end
 
