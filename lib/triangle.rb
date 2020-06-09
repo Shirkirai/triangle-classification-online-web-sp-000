@@ -7,5 +7,9 @@ class Triangle
     end
   end
 
+  def kind
+
+  end
+
 
 end
