@@ -15,7 +15,7 @@ class Triangle
     elsif
       return :scalene
     elsif
-      return :obtuse
+      return :isosceles
 
     end
   end
